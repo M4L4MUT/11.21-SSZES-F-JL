@@ -1,0 +1,8 @@
+print("F")
+print("F")
+print("T")
+print("T")
+print("T")
+print("T")
+print("F")
+print("F")
